@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+
+<AnchorPane prefHeight="159.0" prefWidth="289.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <Text layoutX="2.0" layoutY="19.0" strokeType="OUTSIDE" strokeWidth="0.0" text="The Wong Way GPS" textAlignment="CENTER" wrappingWidth="289.0">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Text>
+      <Text layoutX="1.0" layoutY="50.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Created By:" textAlignment="CENTER" wrappingWidth="291.0" />
+      <Text layoutX="2.0" layoutY="76.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Daemon Macklin &amp; Andy Wong" textAlignment="CENTER" wrappingWidth="289.0" />
+   </children>
+</AnchorPane>
